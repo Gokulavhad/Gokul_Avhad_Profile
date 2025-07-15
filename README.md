@@ -1,13 +1,12 @@
 ![Project 1 Screenshot](img/p1.png)
 
-# Raj G Patil's Portfolio
+# Gokul Avhad's Portfolio
 
 Welcome to my personal portfolio repository! This project showcases my skills, projects, and experience as a full-stack developer.
 
 ## Table of Contents
 - [About](#about)
 - [Technologies Used](#technologies-used)
-- [Sample Work](#sample-work)
 - [Contact](#contact)
 
 ## About
@@ -19,21 +18,11 @@ I am a full-stack developer with experience in Python, MySQL, HTML, CSS, JavaScr
 - **Version Control:** Git
 
 
-## Sample Work
-Here are some sample images from my projects:
-
-![Project 2 Screenshot](img/p2.png)
-
-![Project 3 Screenshot](img/p3.png)
-
-![Project 3 Screenshot](img/p4.png)
-
-
 ## Contact
 Feel free to reach out to me for any queries or opportunities.
 
-- **Email:** [rxjpatil@gmail.com](mailto:rxjpatil@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rxjpatil/)
-- **GitHub:** [GitHub Profile](https://github.com/rxjpatil)
+- **Email:** [gokulavhad2002@gmail.com](mailto:gokulavhad@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/gokul-avhad-052aa7210/)
+- **GitHub:** [GitHub Profile](https://github.com/Gokulavhad)
 
 Thank you for visiting my portfolio repository!
